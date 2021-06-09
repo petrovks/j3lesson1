@@ -23,6 +23,7 @@ public class Main {
         box.sortingFruit(a);
         System.out.println(box.getWeight());
         System.out.println(a.getWeight());
+        
     }
 // i - номер ячейки в которую переносим значение
     //j - номер ячейки из которой переносим
